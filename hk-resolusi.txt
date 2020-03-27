@@ -1,2 +1,3 @@
 hk resolusi
 - semoga kedepannya bisa belajar lebih giat
+apt update && apt uppgrade -y
